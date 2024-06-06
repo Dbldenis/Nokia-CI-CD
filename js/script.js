@@ -6,7 +6,7 @@ function calculateSum() {
     const result = number1 + number2;
     document.getElementById('result').textContent = `Result: ${result}`;
 }
-
+// Nokia
 // Export the function for testing
 module.exports = {
     calculateSum
